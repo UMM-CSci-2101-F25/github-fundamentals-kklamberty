@@ -12,3 +12,5 @@ This is a paragraph. *This is italicized*
 
 ## Links
 
+[GitHub](http://github.com)
+[University of Minnesota Morris](http://morris.umn.edu)
