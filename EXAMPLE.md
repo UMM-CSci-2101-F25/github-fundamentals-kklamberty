@@ -1,5 +1,7 @@
 # My first heading
 
+## Lists
+
 This is a paragraph. *This is italicized*
 
 * A list item
@@ -7,3 +9,6 @@ This is a paragraph. *This is italicized*
 
 1. Numbered item
 2. A second numbered item
+
+## Links
+
